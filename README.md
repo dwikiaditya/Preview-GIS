@@ -29,6 +29,11 @@ Sistem Informasi Geografis untuk memetakan jaringan pipa distribusi air.   Fokus
   <img src="Preview%20gis/addpipa.PNG" width="80%">
 </p>
 
+## 📍 Pemetaan Pelanggan
+<p align="center">
+  <img src="Preview%20gis/pelanggan.PNG" width="80%">
+</p>
+
 ## 📍 Pemetaan Pipa
 <p align="center">
   <img src="Preview%20gis/pipa.PNG" width="80%">
