@@ -1,5 +1,8 @@
 # Preview-GIS
-Sistem Informasi Geografis untuk memetakan jaringan pipa distribusi air.   Fokus pada fitur layer peta, manajemen pipa, pengecekan blackbox testing, dan iterasi Agile. 
+Sistem Informasi Geografis untuk memetakan jaringan pipa distribusi air.   Fokus pada fitur layer peta, dan manajemen pipa. 
+**Status:** Private Code  
+**Tech:** Laravel, Leaflet.js, MySQL  
+**Metode:** Agile — Iterasi & evaluasi  
 **Screenshot:**  
 ## 📌 Dashboard
 <p align="center">
